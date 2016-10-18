@@ -1,0 +1,4 @@
+;************************************
+;Lista wyników uczniów w konkursie.  
+;Utworzono:14.5.2015 0:0:5
+

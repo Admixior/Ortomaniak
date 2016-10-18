@@ -1,0 +1,68 @@
+﻿#########################################################################
+#         Plik konfiguracyjny zawiera informacje dotyczące
+# ilości, prędkości i rodzaju słówek podczas przeprowadzanego konkursu;
+#
+# Każdy uczestnik, która połączy się z serwerem otrzyma konfigurację i będzie
+# według niej przechodził tryb konkursowy
+#
+#  1. Dbaj by dane były poprawne
+#  2. Możesz edytować linie, dodawać je,
+#       lecz nie możesz zmieniać kolejności danych
+#  3. Każda linia ze znakiem "#" zostanie potraktowana jako komentarz,
+#       więc możesz w tych miejscach pisać co chcesz :)
+#  4. W dwóch pierwszych wartościach oczekiwana jest liczba,
+#       natomiast przy wybprze rodzaju słówek słówo TAK lub NIE
+#
+
+####################
+#  Tytuł:
+BLa 2
+
+####################
+#  Ilość słówek:
+
+25
+
+####################
+#  Czas na słówko
+#    w sekundach:
+
+10
+
+#########################
+#  RODZAJE  SŁÓWEK
+#   na które uczestnicy
+#   będą odpowiadać:
+
+
+#  u, ó
+TAK
+
+
+#  rz, ż
+TAK
+
+
+#  ch, h
+TAK
+
+
+#  om, ą, ę
+TAK
+
+
+#  j, i
+TAK
+
+
+#  nie (razem czy osobno)
+TAK
+
+#  -by (razem czy osobno)
+TAK
+
+#  duża lub mała litera
+TAK
+
+#  Zestaw dla dzieci
+NIE

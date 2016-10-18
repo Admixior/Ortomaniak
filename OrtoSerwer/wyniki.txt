@@ -1,0 +1,18 @@
+;************************************
+;Lista wyników uczniów w konkursie.  
+;Utworzono:15.5.2015 19:57:23
+
+#Zespó³ Szkó³ Elektryczno-Mechanicznych w Nowym S¹cz
+Adrian Jeleñ	7	9	5
+£ók¹œ¿ Jê£êÑ	1	8	2
+
+
+#II LO Im. Marii Konopnickiej
+test test	3	0	1
+
+
+#Obojetnie jaka nazwa
+Ktoœ inny	10	2	0
+£ók¹œ¿ Jê£êÑ	1	0	0
+
+

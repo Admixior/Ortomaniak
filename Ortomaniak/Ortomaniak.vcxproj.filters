@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="interfejs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="face.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="define.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="user.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SerwerConnect.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NetConf.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Statystyki.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ChangeName.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Word.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GameInterface.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ListWord.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Darkness.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="OrtoConf.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ListBadOdp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SchoolAccept.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="WaitForSerwer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Sender.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Autorzy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="interfejs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="face.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="orto.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="user.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SerwerConnect.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="NetConf.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Statystyki.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ChangeName.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Word.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GameInterface.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ListWord.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Darkness.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="OrtoConf.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ListBadOdp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SchoolAccept.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="WaitForSerwer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Autorzy.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Ortomaniak.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="orto\belk.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="orto\bicz.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="orto\bledy.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="orto\edycja.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="orto\fuu.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="orto\heart.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="orto\jea.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="orto\layout.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="orto\matko.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="orto\srodek.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="font\Elementarz.ttf">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="font\MaszynaAEG.ttf">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="font\RINGM.TTF">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="orto\imie_podstawa.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="orto\mtrawka.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="orto\mbelki.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="orto\lay.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="orto\off.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="orto\on.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="orto\suw.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="orto\lay_kon.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="orto\agr.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="orto\arrow_left.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="orto\arrow_right.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="orto\icon.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="orto\load.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="orto\aut.png">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+</Project>
